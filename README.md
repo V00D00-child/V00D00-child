@@ -1,4 +1,4 @@
-### Hi there, I'm Idris - aka [V00D00-child][website] 👋
+### Hi there, I'm Idris - aka [V00D00-child] 👋
 
 [![Website](https://img.shields.io/website?label=idrisbowman.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://idrisbowman.com)
 
