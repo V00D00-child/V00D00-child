@@ -11,11 +11,11 @@
 - ⚡ Fun fact: I love to draw and play guitar / piano
 
 ## Contact me
-[![linkedin](https://img.shields.io/website?label=linkedin&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](www.linkedin.com/in/idris-bowman)
+[![linkedin](https://img.shields.io/website?label=linkedin&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/idris-bowman)
 
 
 [website]: https://idrisbowman.com
 [exchange]: https://exchange.idrisbowman.com
-[linkedin]: www.linkedin.com/in/idris-bowman
+[linkedin]: https://www.linkedin.com/in/idris-bowman
 
 
