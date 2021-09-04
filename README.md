@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=idrisbowman.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://idrisbowman.com)
 [![exchange](https://img.shields.io/website?label=decentralized-exchange-live&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://exchange.idrisbowman.com)
+[![nft](https://img.shields.io/website?label=nft-art-gallery-live&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nft.idrisbowman.com)
 
 
 ## I'm a Father, Developer, and Investor!!
@@ -16,6 +17,7 @@
 
 [website]: https://idrisbowman.com
 [exchange]: https://exchange.idrisbowman.com
+[nft]: https://nft.idrisbowman.com
 [linkedin]: https://www.linkedin.com/in/idris-bowman
 
 
