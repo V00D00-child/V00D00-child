@@ -6,6 +6,7 @@
 [![music](https://img.shields.io/website?label=music-cheat-sheet-live&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://music.idrisbowman.com)
 [![auth](https://img.shields.io/website?label=blockchain-signature-verification-live-kovan&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://auth.idrisbowman.com)
 [![piggame](https://img.shields.io/website?label=pig-game-live&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://v00d00-child.github.io/pigGame/)
+[![lottery](https://img.shields.io/website?label=lottery-live&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lottery.idrisbowman.com/)
 
 ## I'm a Father, Developer, and Investor!!
 
@@ -23,5 +24,6 @@
 [music]: https://music.idrisbowman.com
 [auth]: https://music.idrisbowman.com
 [piggame]: https://v00d00-child.github.io/pigGame/
+[lottery]: https://lottery.idrisbowman.com/
 
 
