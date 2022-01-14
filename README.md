@@ -3,7 +3,7 @@
 ## I'm a Father, Developer, and Investor!!
 
 - 🌱 I’m currently learning blockchain, AWS technology, and building a React npm package
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / piano
 
 ## Personal Projects
