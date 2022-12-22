@@ -20,9 +20,11 @@
 ## NPM Packages
 [![web3-cloud](https://img.shields.io/website?label=web3-cloud&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.npmjs.com/package/web3-cloud)
 
+## SAAS
+[![secure-auth3](https://img.shields.io/website?label=secureauth3&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.secureauth3.com/)
 
 ## Contact me
-[![web3-cloud](https://img.shields.io/badge/linkedin-connect-green)](https://www.npmjs.com/package/web3-cloud)
+[![linkedin](https://img.shields.io/badge/linkedin-connect-green)](https://www.linkedin.com/in/idris-bowman)
 
 [website]: https://idrisbowman.com
 [exchange]: https://exchange.idrisbowman.com
@@ -33,6 +35,7 @@
 [piggame]: https://v00d00-child.github.io/pigGame/
 [lottery]: https://lottery.idrisbowman.com/
 [web3-cloud]: https://www.npmjs.com/package/web3-cloud
+[secure-auth3]: https://www.secureauth3.com
 
 
 
