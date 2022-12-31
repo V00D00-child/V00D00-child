@@ -2,8 +2,8 @@
 
 ## I'm a Father, Developer, and Investor!!
 
-- 🌱 I’m currently learning blockchain, AWS technology, and building a React npm package
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently studing Ethereum blockchain technology(account abstraction, staking), AWS technology(CI/CD), [MetaMask snaps](https://metamask.io/snaps/), and supporting a [React npm package](https://www.npmjs.com/package/web3-cloud)
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / piano
 
 ## Personal Projects
