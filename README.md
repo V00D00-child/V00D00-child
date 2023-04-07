@@ -2,17 +2,13 @@
 
 ## I'm a Father, Developer, and Investor!!
 
-- 🌱 I’m currently studing Ethereum blockchain technology(account abstraction, staking), AI technology, [MetaMask snaps](https://metamask.io/snaps/), and supporting a [React npm package](https://www.npmjs.com/package/web3-cloud)
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / piano
+- 🌱 I’m currently studying Ethereum blockchain technology(eip-4337, staking)
+- ⚡ Supporting an open source [ERC-4337 Bundler](https://opnode.io) 
+- ⚡ Supporting an open source Sign In with Ethereum wrapper [React npm package](https://www.npmjs.com/package/web3-cloud)
 
-## Projects
-
-[![Website](https://img.shields.io/website?label=idrisbowman.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://idrisbowman.com)
-[![piggame](https://img.shields.io/website?label=pig-game-live&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://v00d00-child.github.io/pigGame/)
-[![music](https://img.shields.io/website?label=music-cheat-sheet-live&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://music.idrisbowman.com)
+## Open Source Projects
 [![web3-cloud](https://img.shields.io/website?label=npm-web3-cloud&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.npmjs.com/package/web3-cloud)
-[![secure-auth3](https://img.shields.io/website?label=saas-secureauth3&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.secureauth3.com/)
+[![OpNode](https://img.shields.io/website?label=op-node&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://opnode.io)
 
 <!--- 
 TODO: Update contracts to use goerl testnet
@@ -23,6 +19,8 @@ TODO: Update contracts to use goerl testnet
 --->
 
 ## Contact me
+[![Website](https://img.shields.io/website?label=idrisbowman.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://idrisbowman.com)
+
 [![linkedin](https://img.shields.io/badge/linkedin-connect-green)](https://www.linkedin.com/in/idris-bowman)
 
 [website]: https://idrisbowman.com
@@ -34,7 +32,7 @@ TODO: Update contracts to use goerl testnet
 [piggame]: https://v00d00-child.github.io/pigGame/
 [lottery]: https://lottery.idrisbowman.com/
 [web3-cloud]: https://www.npmjs.com/package/web3-cloud
-[secure-auth3]: https://www.secureauth3.com
+[OpNode]: https://opnode.io
 
 
 
