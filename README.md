@@ -3,7 +3,7 @@
 ## I'm a Father, Developer, and Investor!!
 
 - 🌱 I’m currently studying Ethereum blockchain technology(eip-4337, staking)
-- ⚡ Buildind an open source [ERC-4337](https://eips.ethereum.org/EIPS/eip-4337) Bundler
+- ⚡ Building an open source [ERC-4337](https://eips.ethereum.org/EIPS/eip-4337) Bundler
 - ⚡ Supporting an open source Sign In with Ethereum wrapper [React npm package](https://www.npmjs.com/package/web3-cloud)
 
 ## Open Source Projects
