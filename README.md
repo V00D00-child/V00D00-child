@@ -8,7 +8,6 @@
 
 ## Open Source Projects
 [![web3-cloud](https://img.shields.io/website?label=npm-web3-cloud&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.npmjs.com/package/web3-cloud)
-[![OpNode](https://img.shields.io/website?label=op-node&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://opnode.io)
 
 <!--- 
 TODO: Update contracts to use goerl testnet
@@ -32,7 +31,6 @@ TODO: Update contracts to use goerl testnet
 [piggame]: https://v00d00-child.github.io/pigGame/
 [lottery]: https://lottery.idrisbowman.com/
 [web3-cloud]: https://www.npmjs.com/package/web3-cloud
-[OpNode]: https://opnode.io
 
 
 
