@@ -1,4 +1,4 @@
-### Hi there, I'm Idris - aka [V00D00-child][website] 👋
+### Hi there, I'm Idris
 
 ## I'm a Father, Developer, and Investor!!
 
