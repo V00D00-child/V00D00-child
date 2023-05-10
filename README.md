@@ -7,7 +7,7 @@
 - ⚡ Supporting an open source Sign In with Ethereum wrapper [React npm package](https://www.npmjs.com/package/web3-cloud)
 
 ## Open Source Projects
-[![OpNode](https://img.shields.io/website?label=opnode&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.opnode.io)
+[![OpNode](https://img.shields.io/website?label=opnode&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/OpNode/opnode-bundler)
 
 [![web3-cloud](https://img.shields.io/website?label=npm-web3-cloud&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.npmjs.com/package/web3-cloud)
 
