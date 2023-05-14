@@ -1,7 +1,7 @@
 ## Blockchain ninja by day, code wizard by night
 
 - 🌱 I’m currently studying Ethereum blockchain technology(ERC-4337, staking)
-- ⚡ Building an open source ERC-4337 [Bundler](https://github.com/OpNode/opnode-bundler)
+- ⚡ Building an open source ERC-4337 [Bundler](https://github.com/transeptorlabs/transeptor-bundler)
 - ⚡ Supporting an open source Sign In with Ethereum wrapper [React npm package](https://www.npmjs.com/package/web3-cloud)
 
 ## Contact me
