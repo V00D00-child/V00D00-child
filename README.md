@@ -7,5 +7,3 @@
 
 ## Contact me
 [![linkedin](https://img.shields.io/badge/linkedin-connect-green?style=flat&logo=linkedin&link=https://www.linkedin.com/in/idris-bowman)](https://www.linkedin.com/in/idris-bowman)
-[![Telegram](https://img.shields.io/badge/Telegram-message%20me-green?style=flat&logo=telegram&link=https://t.me/ibowman_eth)](https://t.me/ibowman_eth)
-
