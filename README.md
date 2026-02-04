@@ -8,6 +8,7 @@ I am working on a few projects at the moment. Here are a few that get the most o
 - Bringing Readable permissions to Ethereum:
    - [Delegation framework](https://github.com/MetaMask/delegation-framework)
    - [ERC-7715 Permissions](https://github.com/MetaMask/snap-7715-permissions)
+   - Co-author of [ERC-7715](https://eips.ethereum.org/EIPS/eip-7715)
 
 ## Philosophy
 
