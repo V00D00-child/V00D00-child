@@ -3,7 +3,8 @@
 I'm building at the intersection of Ethereum, privacy, and open financial infrastructure.
 
 A few things that get most of my attention:
-- Building [Cashie Protocol](https://cashie.org) — an open financial infrastructure project focused on programmable payments, permissionless payment execution settled on Ethereum
+- Building [Cashie Protocol](https://cashie.org)
+    - An open financial infrastructure project focused on programmable payments, permissionless payment execution settled on Ethereum
 - Experimenting systems that utilize *Reciprocal capitalism* instead of *Traditional capitalism*
 -  Building infrastructure that powers Account Abstraction on Ethereum:
    - ERC-4337 [Bundler](https://github.com/transeptorlabs/transeptor-bundler)
