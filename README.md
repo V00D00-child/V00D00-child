@@ -1,18 +1,22 @@
 ## Building what comes next
 
-I am working on a few projects at the moment. Here are a few that get the most of my attention:
-- Experimenting with zero-knowledge primitives & privacy-first UX
-- Experimenting building systems that utilize *Reciprocal capitalism* instead of *Traditional capitalism*
+I'm building at the intersection of Ethereum, privacy, and open financial infrastructure.
+
+A few things that get most of my attention:
+- Building [Cashie Protocol](https://cashie.org) — an open financial infrastructure project focused on programmable payments, permissionless payment execution settled on Ethereum
+- Experimenting systems that utilize *Reciprocal capitalism* instead of *Traditional capitalism*
 -  Building infrastructure that powers Account Abstraction on Ethereum:
    - ERC-4337 [Bundler](https://github.com/transeptorlabs/transeptor-bundler)
-- Bringing Readable permissions to Ethereum:
+- Bringing Advanced Permissions to Ethereum:
    - [Delegation framework](https://github.com/MetaMask/delegation-framework)
    - [ERC-7715 Permissions](https://github.com/MetaMask/snap-7715-permissions)
    - Co-author of [ERC-7715](https://eips.ethereum.org/EIPS/eip-7715)
 
 ## Philosophy
 
-I build in public, so expect messy experiments, breaking things, and moving fast. My ideas are far out there, but they have the potential to redefine how payments and UX operate on Ethereum.
+I build in public, so expect messy experiments, breaking things, and moving fast. 
+
+The future of payments and financial UX should be built on open protocols, not vertically integrated platforms. My ideas are far out there, but they have the potential to redefine how payments operate on Ethereum.
 
 ## Contact me
 
